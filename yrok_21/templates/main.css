@@ -1,0 +1,11 @@
+.proverb{
+    color: rgb(0, 0, 128);
+    background-color: rgb(173, 216, 230);
+}
+.main{
+    color: #191970;
+    background-color: rgb(224, 255, 255);
+}
+body{
+    background-image: url("niga.jpg");
+}
